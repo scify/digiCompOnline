@@ -1,5 +1,7 @@
 # DigComp: The Digital Competence Framework for Citizens
 
+<p align="center"><img src="http://www.scify.gr/site/images/scify/scify_logo_108.png"></p>
+
 ## Attributions
 
 This project is based on [DigComp: The Digital Competence Framework for Citizens](https://ec.europa.eu/jrc/en/publication/eur-scientific-and-technical-research-reports/digcomp-21-digital-competence-framework-citizens-eight-proficiency-levels-and-examples-use) that was released at 2017 at EU SCIENCE HUB  
