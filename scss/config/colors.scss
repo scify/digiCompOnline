@@ -1,0 +1,20 @@
+$crimson: #cf6766;
+$blue: #30415d;
+$dark-blue: #031424;
+$light-blue: #8eaebd;
+
+$resourcesColor:#cf6766;
+$introActionColor: #30415d;
+$ideasAndOpportunitiesColor:#031424;
+$safetyColor: #5d4230;
+$problemSolvingColor: #904c96;
+$chartFontColor:#fff;
+
+:export {
+  resourcesColor:$resourcesColor;
+  introActionColor: $introActionColor;
+  ideasAndOpportunitiesColor:$ideasAndOpportunitiesColor;
+  safetyColor: $safetyColor;
+  problemSolvingColor: $problemSolvingColor;
+  chartFontColor:$chartFontColor;
+}
