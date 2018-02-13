@@ -18,7 +18,7 @@
         <div class="mdc-layout-grid__inner">
           <div class="mdc-layout-grid__cell mdc-layout-grid__cell--span-12">
             <div style="color:#757575;" class="mdc-typography--body1">
-              Mastering these skills gives you the ability to:<br><br>
+              Mastering each level for the skill will give you the ability to:<br><br>
               <!-- {{ competence }} -->
 
        <!-- TABS BEGIN -->

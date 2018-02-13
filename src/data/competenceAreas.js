@@ -12,7 +12,7 @@ const competenceArea1 =new CompetenceArea(
     new Competence(
       1,
       "Browsing, searching and filtering data, information and digital content",
-      "To articulate information needs, to search for data, information and content in digital environments, to access and navigate between them. To create and update personal search strategies",
+      "The citizen is able to articulate information needs, to search for data, information and content in digital environments, to access and navigate between them. To create and update personal search strategies",
       [
       new SkillLevel(1, [
                      "identify my information needs",
@@ -63,7 +63,7 @@ const competenceArea1 =new CompetenceArea(
     new Competence(
       2,
       "Evaluating data, information and digital content",
-      "To analyse, compare and critically evaluate the credibility and reliability of sources of data, information and digital content. To analyse, interpret and critically evaluate the data, information and digital content",
+      "The citizen is able to analyse, compare and critically evaluate the credibility and reliability of sources of data, information and digital content. To analyse, interpret and critically evaluate the data, information and digital content",
       [
       new SkillLevel(1, [
                      "detect the credibility and reliability of common sources of data, information and their digital content.",
@@ -100,7 +100,7 @@ const competenceArea1 =new CompetenceArea(
     new Competence(
       3,
       "Managing data, information and digital content",
-      "To organise, store and retrieve data, information, and content in digital environments. To organise and process them in a structured environment",
+      "The citizen is able to organise, store and retrieve data, information, and content in digital environments. To organise and process them in a structured environment",
       [
       new SkillLevel(1, [
                      "identify how to organise, store and retrieve data, information and content in a simple way in digital environments.",
@@ -146,7 +146,7 @@ const competenceArea2 =new CompetenceArea(2,
     new Competence(
                    4,
                    "Interacting through digital technologies",
-                   "To interact through a variety of digital technologies and to understand appropriate digital communication means for a given context",
+                   "The citizen is able to interact through a variety of digital technologies and to understand appropriate digital communication means for a given context",
                    [
       new SkillLevel(1, [
                      "select simple digital technologies to interact,",
@@ -186,7 +186,7 @@ const competenceArea2 =new CompetenceArea(2,
     new Competence(
       5,
       "Sharing through digital technologies",
-      "To share data, information and digital content with others through appropriate digital technologies. To act as an intermediary, to know about referencing and attribution practices",
+      "The citizen is able to share data, information and digital content with others through appropriate digital technologies. To act as an intermediary, to know about referencing and attribution practices",
       [
       new SkillLevel(1, [
                      "recognise simple appropriate digital technologies to share data, information and digital content.",
@@ -230,7 +230,7 @@ const competenceArea2 =new CompetenceArea(2,
     new Competence(
       6,
       "Engaging in citizenship through digital technologies",
-      "To participate in society through the use of public and private digital services. To seek opportunities for self-empowerment and for participatory citizenship through appropriate digital technologies.",
+      "The citizen is able to participate in society through the use of public and private digital services. To seek opportunities for self-empowerment and for participatory citizenship through appropriate digital technologies.",
       [
       new SkillLevel(1, [
                      "identify simple digital services in order to participate in society.",
@@ -271,7 +271,7 @@ const competenceArea2 =new CompetenceArea(2,
     new Competence(
       7,
       "Collaborating through digital technologies",
-      "To use digital tools and technologies for collaborative processes, and for co-construction and co-creation of data, resources and knowledge",
+      "The citizen is able to use digital tools and technologies for collaborative processes, and for co-construction and co-creation of data, resources and knowledge",
       [
       new SkillLevel(1, [
                      "choose simple digital tools and technologies for collaborative processes.",
@@ -306,7 +306,7 @@ const competenceArea2 =new CompetenceArea(2,
     new Competence(
       8,
       "Netiquette",
-      "To be aware of behavioural norms and know-how while using digital technologies and interacting in digital environments. To adapt communication strategies to the specific audience and to be aware of cultural and generational diversity in digital environments.",
+      "The citizen is able to be aware of behavioural norms and know-how while using digital technologies and interacting in digital environments. To adapt communication strategies to the specific audience and to be aware of cultural and generational diversity in digital environments.",
       [
       new SkillLevel(1, [
                      "differentiate simple behavioural norms and know-how while using digital technologies and interacting in digital environments.",
@@ -352,7 +352,7 @@ const competenceArea2 =new CompetenceArea(2,
     new Competence(
                    9,
                    "Managing digital identity",
-                   "To create, and manage one or multiple digital identities, to be able to protect one’s own reputation, to deal with the data that one produces through several digital tools, environments and services.",
+                   "The citizen is able to create, and manage one or multiple digital identities, to be able to protect one’s own reputation, to deal with the data that one produces through several digital tools, environments and services.",
                    [
                    new SkillLevel(1, [
                                   "identify a digital identity,",
@@ -404,7 +404,7 @@ const competenceArea3 = new CompetenceArea(3,
       new Competence(
        10,
       "Developing content",
-      "To create and edit digital content in different formats, to express oneself through digital means.",
+      "The citizen is able to create and edit digital content in different formats, to express oneself through digital means.",
       [
       new SkillLevel(1, [
                      "identify ways to create and edit simple content in simple formats,",
@@ -447,7 +447,7 @@ const competenceArea3 = new CompetenceArea(3,
     new Competence(
       11,
       "Integrating and re-elaborating digital content",
-      "To modify, refine, improve and integrate information and content into an existing body of knowledge to create new, original and relevant content and knowledge.",
+      "The citizen is able to modify, refine, improve and integrate information and content into an existing body of knowledge to create new, original and relevant content and knowledge.",
       [
       new SkillLevel(1, [
 "select ways to modify, refine, improve and integrate simple items of new content and information to create new and original ones.",
@@ -484,7 +484,7 @@ const competenceArea3 = new CompetenceArea(3,
       new Competence(
        12,
        "Copyright and licenses",
-       "To understand how copyright and licenses apply to data, digital information and content.",
+       "The citizen is able to understand how copyright and licenses apply to data, digital information and content.",
        [
        new SkillLevel(1, [
 "identify simple rules of copyright and licenses that apply to data, digital information and content.",
@@ -519,7 +519,7 @@ const competenceArea3 = new CompetenceArea(3,
       new Competence(
                      13,
                      "Programming",
-                     "To plan and develop a sequence of understandable instructions for a computing system to solve a given problem or perform a specific task",
+                     "The citizen is able to plan and develop a sequence of understandable instructions for a computing system to solve a given problem or perform a specific task",
                      [
                      new SkillLevel(1, [
 "list simple instructions for a computing system to solve a simple problem or perform a simple task.",
@@ -559,7 +559,7 @@ const competenceArea4 =new CompetenceArea(4,
     new Competence(
       14,
       "Protecting devices",
-      "To protect devices and digital content, and to understand risks and threats in digital environments. To know about safety and security measures and to have a due regard to reliability and privacy.",
+      "The citizen is able to protect devices and digital content, and to understand risks and threats in digital environments. To know about safety and security measures and to have a due regard to reliability and privacy.",
       [
       new SkillLevel(1, [
 "identify simple ways to protect my devices and digital content",
@@ -611,7 +611,7 @@ const competenceArea4 =new CompetenceArea(4,
     new Competence(
       15,
       "Protecting personal data and privacy",
-      "To protect personal data and privacy in digital environments.  To understand how to use and share personally identifiable information while being able to protect oneself and others from damages. To understand that digital services use a “Privacy policy” to inform how personal data is used.",
+      "The citizen is able to protect personal data and privacy in digital environments.  To understand how to use and share personally identifiable information while being able to protect oneself and others from damages. To understand that digital services use a “Privacy policy” to inform how personal data is used.",
       [
       new SkillLevel(1, [
 "select simple ways to protect my personal data and privacy in digital environments",
@@ -657,7 +657,7 @@ const competenceArea4 =new CompetenceArea(4,
     new Competence(
       16,
       "Protecting health and well-being",
-      "To be able to avoid health-risks and threats to physical and psychological well-being while using digital technologies. To be able to protect oneself and others from possible dangers in digital environments (e.g. cyber bullying). To be aware of digital technologies for social well-being and social inclusion.",
+      "The citizen is able to be able to avoid health-risks and threats to physical and psychological well-being while using digital technologies. To be able to protect oneself and others from possible dangers in digital environments (e.g. cyber bullying). To be aware of digital technologies for social well-being and social inclusion.",
       [
       new SkillLevel(1, [
 "differentiate simple ways to avoid health -risks and threats to physical and psychological well-being while using digital technologies.",
@@ -705,7 +705,7 @@ const competenceArea4 =new CompetenceArea(4,
     new Competence(
       17,
       "Protecting the environment",
-      "To be aware of the environmental impact of digital technologies and their use",
+      "The citizen is able to be aware of the environmental impact of digital technologies and their use",
       [
       new SkillLevel(1, [
 "recognise simple environmental impacts of digital technologies and their use.",
@@ -746,7 +746,7 @@ const competenceArea5 = new CompetenceArea(5,
   new Competence(
     18,
     "Solving technical problems",
-    "To identify technical problems when operating devices and using digital environments, and to solve them (from trouble-shooting to solving more complex problems).",
+    "The citizen is able to identify technical problems when operating devices and using digital environments, and to solve them (from trouble-shooting to solving more complex problems).",
     [
     new SkillLevel(1, [
 "identify simple technical problems when operating devices and using digital environments",
@@ -786,7 +786,7 @@ const competenceArea5 = new CompetenceArea(5,
     new Competence(
       19,
       "Identifying needs and technological responses",
-      "To assess needs and to identify, evaluate, select and use digital tools and possible technological responses and to solve them. To adjust and customise digital environments to personal needs (e.g. accessibility).",
+      "The citizen is able to assess needs and to identify, evaluate, select and use digital tools and possible technological responses and to solve them. To adjust and customise digital environments to personal needs (e.g. accessibility).",
       [
       new SkillLevel(1, [
 "identify needs",
@@ -832,7 +832,7 @@ const competenceArea5 = new CompetenceArea(5,
     new Competence(
       20,
       "Creatively using digital technology",
-      "To use digital tools and technologies to create knowledge and to innovate processes and products. To engage individually and collectively in cognitive processing to understand and resolve conceptual problems and problem situations in digital environments.",
+      "The citizen is able to use digital tools and technologies to create knowledge and to innovate processes and products. To engage individually and collectively in cognitive processing to understand and resolve conceptual problems and problem situations in digital environments.",
       [
       new SkillLevel(1, [
 "identify simple digital tools and technologies that can be used to create knowledge and  to innovate processes and products.",
@@ -872,7 +872,7 @@ const competenceArea5 = new CompetenceArea(5,
     new Competence(
       21,
       "Identifying digital competence gaps",
-      "To understand where one’s own digital competence needs to be improved or updated. To be able to support others with their digital competence development. To seek opportunities for self-development and to keep up-to-date with the digital evolution.",
+      "The citizen is able to understand where one’s own digital competence needs to be improved or updated. To be able to support others with their digital competence development. To seek opportunities for self-development and to keep up-to-date with the digital evolution.",
       [
       new SkillLevel(1, [
 "recognise where my own digital competence needs to be improved or updated.",
